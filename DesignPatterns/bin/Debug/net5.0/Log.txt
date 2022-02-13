@@ -1,0 +1,4 @@
+Usando log del singleton.
+Usando log del singleton 2.
+Usando log del singleton.
+Usando log del singleton 2.
